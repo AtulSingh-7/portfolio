@@ -1,7 +1,7 @@
-#Personal Portfolio Website
+# Personal Portfolio Website
 Welcome to my personal portfolio website repository! This project showcases my skills, projects, and experiences as a developer. It is a static website built using HTML, CSS, and JavaScript, designed to provide a comprehensive overview of my work and capabilities.
 
-#Features
+# Features
 Responsive Design: The website is fully responsive, ensuring a seamless experience on both desktop and mobile devices.
 
 Interactive Elements: Includes various interactive elements to enhance user experience.
