@@ -1,0 +1,99 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+
+# Compiled source files
+dist/
+build/
+
+# Hidden files and folders
+.*
+!.gitignore
+
+# Environment variables
+.env
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Dependency directories
+bower_components/
+
+# Cache files
+.cache/
+
+# Output files
+*.class
+*.war
+*.jar
+*.pyc
+
+# Coverage files
+coverage/
+
+# Minified files
+*.min.js
+*.min.css
+
+# SASS cache
+.sass-cache/
+
+# Generated documentation
+docs/
+
+# Temporary backup files
+*.bak
+*.swp
+
+# System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Miscellaneous
+*.obj
+*.exe
+*.dll
+*.pdb
+*.so
+*.dylib
+*.class
+*.jar
+*.war
+
+# Package files
+*.gem
+*.egg
+*.bundle
+*.lock
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+
+# Python stuff
+__pycache__/
+
+# Rust stuff
+target/
+Cargo.lock
+
+# Ignore all .env files
+.env*
